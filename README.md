@@ -1,94 +1,91 @@
-# Food Ordering CRUD Application
+# GoMart - Online Grocery Marketplace Management System
 
 ## Project Overview
 
-This project is a comprehensive desktop-based Food Ordering Management System developed as part of the Object-Oriented Programming 2 (OOP2) course. It provides users with a seamless experience from browsing menus to receiving meals, facilitating interactions between customers, restaurant administrators, and system administrators.
+This project is a comprehensive desktop-based Online Grocery Marketplace Management System developed using C#, Windows Forms, SQL Server, and ADO.NET. The system provides a complete platform for customers, administrators, and store managers to efficiently manage grocery products, orders, inventory, and user activities.
 
 ## Key Features
 
-### Role-Based Access Control
-- Secure Login and Registration System
-- Customer, Admin, and SuperAdmin Roles
-- Authentication and Authorization
+### User Authentication
+- Secure user registration and login system.
+- Role-based access control for Customers and Administrators.
+- User profile management and account security.
 
-### Customer Dashboard
-- Browse Food Menu
-- Add Items to Cart
-- Customize Orders
-- Place Orders
-- Submit Ratings and Reviews
+### Customer Features
+- Browse grocery products by category.
+- Search and filter products easily.
+- Add products to the shopping cart.
+- Manage cart items and quantities.
+- Place orders and view order history.
 
-### Restaurant Management
-- Add, Update, Delete Food Items
-- Manage Menu Categories
-- Update Pricing
-- Monitor Stock Availability
+### Product Management
+- Full CRUD (Create, Read, Update, Delete) operations for products.
+- Product categorization and inventory management.
+- Price and stock updates by administrators.
 
-### Order Processing
-- Place and Track Orders
-- Calculate Total Order Cost
-- Order Status Updates
-- Delivery Management
+### Order Management
+- Order placement and processing.
+- Real-time order tracking.
+- Automatic total cost calculation.
+- Order status updates and management.
 
-### System Administration
-- Manage Users and Restaurants
-- Monitor Transactions
-- Maintain System Integrity
-- Generate Administrative Reports
+### Administrative Dashboard
+- Manage users and customer accounts.
+- Monitor product availability and inventory.
+- View and manage customer orders.
+- System-wide management and reporting.
 
-## Technologies Used
+## Tech Stack
 
-- **Programming Language:** C#
-- **Framework:** .NET Windows Forms (WinForms)
-- **Database:** SQL Server
-- **Data Access:** ADO.NET
-- **Development Environment:** Visual Studio
+### Programming Language
+- C#
+
+### User Interface
+- Windows Forms (WinForms)
+
+### Database
+- SQL Server
+
+### Data Access Technology
+- ADO.NET
+
+### Development Environment
+- Visual Studio
 
 ## Database Schema
 
-The system uses a relational database consisting of:
+The system is built on a relational database consisting of the following tables:
 
-### Users Table
-Stores user information, credentials, and roles.
+### Users
+Stores user credentials, personal information, and account roles.
 
-### Menu Table
-Stores food items, categories, pricing, descriptions, and stock information.
+### Products
+Stores grocery product information, pricing, categories, and stock availability.
 
-### Orders Table
-Stores order details, selected items, quantities, and order statuses.
+### Cart
+Manages customer shopping cart items and quantities.
 
-### Reviews Table
-Stores customer ratings and feedback.
+### Orders
+Stores order details, purchased products, and order statuses.
 
-## Learning Objectives
+### Categories
+Stores product category information for better organization.
 
-This project demonstrates:
+## Academic Context
 
-- Object-Oriented Programming Principles
-- CRUD Operations
-- Database Design and Management
-- User Authentication and Authorization
-- Windows Forms Application Development
-- SQL Query Implementation
+This project was developed for academic purposes at American International University-Bangladesh (AIUB).
 
-## Academic Information
-
-**Institution:** American International University-Bangladesh (AIUB)
-
-**Course:** CSC2210 - Object Oriented Programming 2
-
-**Semester:** Spring 2025-2026
-
-**Section:** EE
-
+**Course:** CSC2210 - Object Oriented Programming 2 (OOP2)  
+**Semester:** Spring 2025-2026  
+**Section:** EE  
 **Supervisor:** Dr. Md Iftekharul Mobin
 
 ## Development Team
 
-### Group Members
+### All Group Members
 
 | No. | Full Name | Student ID | Contribution |
-|------|----------|------------|-------------:|
+| --- | --------- | ---------- | -----------: |
 | 1 | Nusrat Zaman Liya | 23-51614-2 | **70%** |
 | 2 | Sumaiya Tabassum Suchi | 24-56110-1 | **10%** |
 | 3 | Sadiya Akter | 24-58146-2 | **10%** |
