@@ -1,0 +1,13 @@
+C:\Users\ASUS\OneDrive\Desktop\OOP2 PROJECT\GoMartApplication\GoMartApplication\bin\Debug\GoMartApplication.exe.config
+C:\Users\ASUS\OneDrive\Desktop\OOP2 PROJECT\GoMartApplication\GoMartApplication\bin\Debug\GoMartApplication.exe
+C:\Users\ASUS\OneDrive\Desktop\OOP2 PROJECT\GoMartApplication\GoMartApplication\bin\Debug\GoMartApplication.pdb
+C:\Users\ASUS\OneDrive\Desktop\OOP2 PROJECT\GoMartApplication\GoMartApplication\obj\Debug\GoMartApplication.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Desktop\OOP2 PROJECT\GoMartApplication\GoMartApplication\obj\Debug\GoMartApplication.Properties.Resources.resources
+C:\Users\ASUS\OneDrive\Desktop\OOP2 PROJECT\GoMartApplication\GoMartApplication\obj\Debug\GoMartApplication.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive\Desktop\OOP2 PROJECT\GoMartApplication\GoMartApplication\obj\Debug\GoMartApplication.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\OOP2 PROJECT\GoMartApplication\GoMartApplication\obj\Debug\GoMartApplication.exe
+C:\Users\ASUS\OneDrive\Desktop\OOP2 PROJECT\GoMartApplication\GoMartApplication\obj\Debug\GoMartApplication.pdb
+C:\Users\ASUS\OneDrive\Desktop\OOP2 PROJECT\GoMartApplication\GoMartApplication\obj\Debug\GoMartApplication.AboutBox1.resources
+C:\Users\ASUS\OneDrive\Desktop\OOP2 PROJECT\GoMartApplication\GoMartApplication\obj\Debug\GoMartApplication.formMain.resources
+C:\Users\ASUS\OneDrive\Desktop\OOP2 PROJECT\GoMartApplication\GoMartApplication\obj\Debug\GoMartApplication.AddNewSeller.resources
+C:\Users\ASUS\OneDrive\Desktop\OOP2 PROJECT\GoMartApplication\GoMartApplication\obj\Debug\GoMartApplication.SellingForm.resources
