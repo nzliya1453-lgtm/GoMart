@@ -77,7 +77,7 @@ This project was developed for academic purposes at American International Unive
 
 **Course:** CSC2210 - Object Oriented Programming 2 (OOP2)  
 **Semester:** Spring 2025-2026  
-**Section:** EE  
+**Section:** R  
 **Supervisor:** Dr. Md Iftekharul Mobin
 
 ## Development Team
