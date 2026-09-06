@@ -76,7 +76,7 @@ Stores product category information for better organization.
 This project was developed for academic purposes at American International University-Bangladesh (AIUB).
 
 **Course:** CSC2210 - Object Oriented Programming 2 (OOP2)  
-**Semester:** Spring 2025-2026  
+**Semester:** Summer 2025-2026  
 **Section:** R  
 **Supervisor:** Dr. Md Iftekharul Mobin
 
